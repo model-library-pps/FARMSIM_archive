@@ -1,0 +1,33 @@
+ee3a7257b20439edd10bc3f240ee390a *Change log field.docx
+b76b1abbb2455519dcb883c8244ab0eb *DESCRIPTION
+f51a49448388078f7fb623a0c7d8a6e7 *Meta/Rd.rds
+21ea431142503c87e0f5dc103801cd39 *Meta/data.rds
+514cc972452f4433f2c67ed7735b4c07 *Meta/hsearch.rds
+bc14adea6881bc779796c5b00de7cc63 *Meta/links.rds
+1eae90a3046408d96133a1894a4b44f6 *Meta/nsInfo.rds
+35a46e97444377d887cd1fafc8c637d7 *Meta/package.rds
+5f3b07577e05d5803d16155ae2d6bcbf *NAMESPACE
+ebf0fc819595d631b8bf280c4b049940 *R/FIELD.QUEFTS
+e8d0db001ae656d8c17318c0e27680c2 *R/FIELD.QUEFTS.rdb
+86ca5863a56a48fb54177a80e8ff305f *R/FIELD.QUEFTS.rdx
+3f90b2bbe56b6510d43769284eaf381d *data/capture.csv
+22c313e6cc0813b962467d0c3f5d7650 *data/crop.csv
+f6c63768a230e801d106ff0f21adb3b6 *data/fertiliser.csv
+dfee7d2f72942dfbaf878ae55f326d3d *data/initcropresidues.csv
+2bb01f326bb06c23977625abd898f7ce *data/rainfall.csv
+cd1c25d6b33e1075b2b6f086bc5a5f86 *data/rotation.csv
+4c66b95e9e32ab366e61141871838476 *data/soilparam.csv
+67750ba6f4a9b611e4376aae7c89ae51 *data/soilproperties.csv
+0801106b9d051b9b0a440d529ef01294 *data/soiltexture.csv
+d41d8cd98f00b204e9800998ecf8427e *help/AnIndex
+d41d8cd98f00b204e9800998ecf8427e *help/FIELD.QUEFTS.rdb
+2a98856fdc55b82d997454a030effd1b *help/FIELD.QUEFTS.rdx
+50105d6637a6ffc622329096ec4ba8c9 *help/aliases.rds
+bc14adea6881bc779796c5b00de7cc63 *help/paths.rds
+ade9629166ff4f40da225728a1703a5e *html/00Index.html
+444535b9cb76ddff1bab1e1865a3fb14 *html/R.css
+9ecf959f05b874dc94192f932c188856 *input_FIELD.xlsm
+f195999e22d5afc038eab6e0f153e414 *run_field.r
+208f038ad2f1f796724bb5d17eaf345c *save_fromField.r
+f0ca3f54e16adcc7c5a5cb9c46cee7b9 *select_output.r
+24bfd018d370a7774c89ecb5a3942bbc *variables in FIELD.xlsx

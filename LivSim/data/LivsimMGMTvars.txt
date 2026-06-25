@@ -1,0 +1,4 @@
+milkallowance
+milkallowanceage
+weaningage	
+walkingdistance

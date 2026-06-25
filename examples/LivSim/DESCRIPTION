@@ -1,0 +1,11 @@
+Package: LivSim
+Type: Package
+Title: LivestockSimulator
+Version: 1.1
+Date: 2012-03-12
+Author: Mariana Rufino, Mark van Wijk and Mink Zijlstra
+Maintainer: Mink Zijlstra <Mink.Zijlstra@wur.nl>
+Description: Simulate some cows
+License: GPL-something
+Depends: abind
+Built: R 3.0.1; ; 2014-02-06 13:39:24 UTC; windows

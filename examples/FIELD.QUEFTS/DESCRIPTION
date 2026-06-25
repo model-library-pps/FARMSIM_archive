@@ -1,0 +1,11 @@
+Package: FIELD.QUEFTS
+Type: Package
+Title: Field
+Version: 1.1
+Date: 2013-03-13
+Author: Mark van Wijk, Linus Franke and Mink Zijlstra
+Maintainer: Mink Zijlstra <Mink.Zijlstra@wur.nl>
+Description: Simulate some fields
+License: GPL-something
+Depends:
+Built: R 3.0.0; ; 2014-04-10 13:28:06 UTC; windows
